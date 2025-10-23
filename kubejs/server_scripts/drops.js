@@ -1,5 +1,5 @@
 LootJS.lootTables(event => {
-    function modifyEntityDrop(mod, entityId, drop, count) {
+    function modifyEntityDrop(entityId, drop, count, mod) {
         mod = mod ?? "minecraft"
         const entity = `${mod}:entities/${entityId}`
         event.getLootTable(entity).firstPool().modifyItemEntry(itemEntry => {

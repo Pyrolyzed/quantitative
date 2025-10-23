@@ -2,10 +2,10 @@
   "biomes": {
     "temperature_multiplier": 1.0,
     "temperature_offset": 0.0,
-    "temperature_scale": 0.25,
+    "temperature_scale": 0.15,
     "vegetation_multiplier": 1.0,
     "vegetation_offset": 0.0,
-    "vegetation_scale": 0.25
+    "vegetation_scale": 0.15
   },
   "caves": {
     "carvers_enabled": false,
@@ -18,9 +18,9 @@
     "spaghetti_enabled": true
   },
   "continents": {
-    "continents_scale": 0.15,
+    "continents_scale": 0.16,
     "erosion_scale": 0.22,
-    "flat_terrain_skew": 0.11,
+    "flat_terrain_skew": 0.07,
     "jungle_pillars": true,
     "ocean_offset": -0.8,
     "ridge_scale": 0.21,
