@@ -30,7 +30,7 @@
 	# Amount of experience points to grant on harvest (0 to disable, must be an integer).
 	# Default: 0
 	# Range: > 0
-	"exp on harvest" = 0
+	"exp on harvest" = 1
 	# Whether to gather drops near the player when harvesting.
 	"gather drops" = true
 
