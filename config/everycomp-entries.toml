@@ -166,9 +166,6 @@
 		[types.leaves_type.ars_elemental]
 			yellow_archwood = true
 
-		[types.leaves_type.twilightdelight]
-			ironwood = true
-
 #Disables specific entries
 [entries]
 

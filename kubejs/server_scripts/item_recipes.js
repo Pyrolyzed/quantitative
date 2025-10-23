@@ -1,4 +1,15 @@
 ServerEvents.recipes(event => {
+    event.remove({id: 'explorerscompass:explorers_compass'})
+    event.shaped('explorerscompass:explorerscompass', [
+        'NAN',
+        'ACA',
+        'NAN'
+    ], {
+        A: 'alltheores:enderium_gear',
+        N: 'minecraft:netherite_ingot',
+        C: 'minecraft:recovery_compass',
+    })
+
     event.remove({ output: "#c:tools/paxel", mod: "mekanismtools"})
     event.remove({output: "reliquary:fertile_lily_pad"})
     event.shapeless("reliquary:fertile_lily_pad", [
@@ -6,8 +17,8 @@ ServerEvents.recipes(event => {
         "minecraft:emerald_block",
         "minecraft:lily_pad"
     ])
-    // Make nether items
 
+    // Make nether items
     event.shapeless(
         Item.of("minecraft:blaze_powder", 1),
         [

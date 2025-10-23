@@ -3,6 +3,8 @@
     "minecraft",
     "kubejs",
     "irons_jewelry",
+    "alltheores",
+    "allthemodium",
     "modern_industrialization",
     "mekanism",
     "industrialforegoing",
@@ -11,9 +13,7 @@
     "utilitarian",
     "oritech",
     "actuallyadditions",
-    "biggerreactors",
-    "alltheores",
-    "allthemodium"
+    "biggerreactors"
   ],
   "priority_overrides": {},
   "stone_variants": [

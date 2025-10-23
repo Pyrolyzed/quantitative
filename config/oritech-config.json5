@@ -231,7 +231,7 @@
 	},
 	"chainsawTreeCutting": true,
 	"generateOresFabricOnly": true,
-	"easyFindFeatures": true,
+	"easyFindFeatures": false,
 	"safeMode": false,
 	"safeModeCooldown": 2400,
 	"maxSize": 64,

@@ -1,0 +1,14 @@
+{
+    "minecraft:player": [
+        {
+            "attribute": "apothic_attributes:experience_gained",
+            "value": 2,
+            "operation": "BASE"
+        },
+        {
+            "attribute": "minecraft:generic.luck",
+            "value": 1,
+            "operation": "BASE"
+        }
+    ]
+}

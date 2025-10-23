@@ -4,7 +4,8 @@
       "Disconnecting VANILLA connection attempt",
       "Channels ",
       "is not correct",
-      "Is not correct"
+      "Is not correct",
+      "Failed to execute AffixLootRule"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
