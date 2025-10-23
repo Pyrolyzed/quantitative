@@ -8,8 +8,10 @@ config/respackopts
 kubejs/data/hostilenetworks/
 kubejs/data/powah/
 
-# Hide ProbeJS jsconfig.json
+# Hide ProbeJS files
 **/jsconfig.json
+kubejs/config/probe-settings.json
+kubejs/config/web_server.json
 
 # Hide old/duplicate/fixed configs/files
 **/*.bak
