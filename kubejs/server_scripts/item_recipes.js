@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    //event.remove({ output: "#c:paxels", mod: "mekanism"})
+    event.remove({ output: "#c:tools/paxel", mod: "mekanismtools"})
     event.remove({output: "reliquary:fertile_lily_pad"})
     event.shapeless("reliquary:fertile_lily_pad", [
         "3x reliquary:fertile_essence",
