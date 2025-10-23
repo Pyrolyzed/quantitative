@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: ""
+	icon: {
+		id: "minecraft:apple"
+	}
+	id: "5D4F6650C2FEE4E2"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -7,7 +7,7 @@
 		id: "minecraft:nether_star"
 	}
 	id: "71A9537EE07AE5DA"
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -24,7 +24,7 @@
 				{
 					id: "3BC4E5E19DB41E22"
 					type: "xp_levels"
-					xp_levels: 5
+					xp_levels: 30
 				}
 			]
 			tasks: [{
@@ -44,6 +44,21 @@
 				id: "minecraft:netherite_sword"
 			}
 			id: "780E96E3801988D7"
+			rewards: [
+				{
+					id: "29924BF56F235ADA"
+					item: {
+						count: 1
+						id: "allthecompressed:diamond_block_2x"
+					}
+					type: "item"
+				}
+				{
+					id: "444BC8137C9301BC"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
 			tasks: [{
 				id: "0D3BC48D773F65C5"
 				stat: "minecraft:mob_kills"
@@ -55,15 +70,22 @@
 		}
 		{
 			id: "3DFABF9817593285"
-			rewards: [{
-				count: 16
-				id: "24BC1D87861BDDFE"
-				item: {
-					count: 1
-					id: "minecraft:enchanted_golden_apple"
+			rewards: [
+				{
+					count: 16
+					id: "24BC1D87861BDDFE"
+					item: {
+						count: 1
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "4FEACCA0A442D292"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
 			tasks: [{
 				id: "70B82CEFEBD90FE7"
 				stat: "minecraft:time_since_death"
@@ -75,6 +97,22 @@
 		}
 		{
 			id: "188F78503F9D9944"
+			rewards: [
+				{
+					count: 8
+					id: "597715E714E9773E"
+					item: {
+						count: 1
+						id: "minecraft:netherite_block"
+					}
+					type: "item"
+				}
+				{
+					id: "3AE10CFCFD5C2E4F"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
 			tasks: [{
 				entity: "minecraft:wither"
 				id: "3F95FB7CD964BABD"
@@ -86,6 +124,21 @@
 		}
 		{
 			id: "58AB45B4DF6E1149"
+			rewards: [
+				{
+					id: "4809156633785699"
+					item: {
+						count: 1
+						id: "minecraft:dragon_egg"
+					}
+					type: "item"
+				}
+				{
+					id: "0057DC69EF8226AC"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
 			tasks: [{
 				entity: "minecraft:ender_dragon"
 				id: "478714D569380445"
@@ -97,9 +150,14 @@
 		}
 		{
 			id: "2CA85DEBE5502D85"
+			rewards: [{
+				id: "325664B207B4C170"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
 			tasks: [{
 				id: "518A00B4E07CC7C2"
-				item: { count: 1, id: "allthecompressed:dirt_6x" }
+				item: { count: 1, id: "allthecompressed:dirt_9x" }
 				type: "item"
 			}]
 			x: 0.0d
