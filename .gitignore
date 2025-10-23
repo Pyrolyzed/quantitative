@@ -8,6 +8,7 @@ config/xaerominimap_entities.json
 config/iris.properties
 config/ftbchunks-client.snbt
 config/worldedit
+
 # Hide mod auto-generated kubejs files
 kubejs/data/hostilenetworks/
 kubejs/data/powah/
