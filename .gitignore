@@ -3,6 +3,10 @@ config/ars_nouveau/search_index/
 config/attributefix/
 config/fabric
 config/respackopts
+config/forgeendertech
+config/xaerominimap_entities.json
+config/iris.properties
+config/ftbchunks-client.snbt
 
 # Hide mod auto-generated kubejs files
 kubejs/data/hostilenetworks/
