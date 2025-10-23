@@ -12,7 +12,10 @@ kubejs/data/powah/
 **/jsconfig.json
 kubejs/config/probe-settings.json
 kubejs/config/web_server.json
+.probe
 
 # Hide old/duplicate/fixed configs/files
 **/*.bak
 **/*.old
+
+.vscode
