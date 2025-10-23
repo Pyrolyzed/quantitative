@@ -14,7 +14,7 @@
 	#Enable Smooth Glowstone?
 	smoothGlowstone = true
 	#Enable Coal and Charcoal Piece?
-	coalPiece = true
+	coalPiece = false
 	#Enable Diamond and Emerald Apples?
 	apples = true
 	#Enable Watering Can?
@@ -32,7 +32,7 @@
 	#Enable Emerald tools and armor?
 	emeraldGear = true
 	#Enable right click crop harvesting?
-	rightClickHarvest = true
+	rightClickHarvest = false
 	#Enable Sickles?
 	sickles = true
 	#Enable Scythes?
@@ -45,11 +45,11 @@
 	#How much material required to fully repair a tool.
 	# Default: 3
 	# Range: 1 ~ 8
-	cost = 3
+	cost = 2
 	#How much additional material required to repair enchanted tools.
 	# Default: 1
 	# Range: 0 ~ 8
-	enchantmentCost = 1
+	enchantmentCost = 0
 	#Crafting grid repair removes all non-curse enchantments.
 	stripEnchantments = false
 	#Should default repair materials be disabled? Doing this makes it so ONLY the custom materials work.
