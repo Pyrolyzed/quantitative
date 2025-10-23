@@ -1,0 +1,10 @@
+{
+    "filters": [
+        {
+            "id": "/toomanyrecipeviewers:/.*coloring.*/"
+        },
+        {
+            "id": "/toomanyrecipeviewers:/.*dyeing.*/"
+        }
+    ]
+}

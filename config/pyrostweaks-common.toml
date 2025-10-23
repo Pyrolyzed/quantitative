@@ -1,0 +1,16 @@
+#Radius of blocks in each direction to remove grass.
+# Default: 128
+# Range: > 0
+grassRemoverRadius = 32
+#Max amount of naturally spawned hostile mobs
+# Default: 70
+# Range: > 1
+maxHostileMobs = 140
+#Max amount of all naturally spawned creatures
+# Default: 20
+# Range: > 1
+maxCreatures = 50
+#Max amount of all naturally spawned ambient creatures
+# Default: 30
+# Range: > 1
+maxAmbient = 50

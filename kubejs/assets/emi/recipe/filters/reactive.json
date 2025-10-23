@@ -1,0 +1,12 @@
+{
+    "filters": [
+        {
+            "id": "/ars_nouveau:reactive/",
+            "category": "ars_nouveau:apparatus_enchanting"
+        },
+        {
+            "id": "emi_enchanting:/ars_nouveau.reactive/enchanting_info",
+            "category": "emi_enchanting:enchantments"
+        }
+    ]
+}

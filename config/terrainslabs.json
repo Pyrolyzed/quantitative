@@ -1,0 +1,5 @@
+{
+  "enableSlabGeneration": false,
+  "enableVegetationOnSlabs": true,
+  "enableSnowOnSlabs": true
+}

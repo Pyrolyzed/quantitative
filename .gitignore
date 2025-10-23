@@ -1,0 +1,16 @@
+# Hide useless auto-generated config files
+config/ars_nouveau/search_index/
+config/attributefix/
+config/fabric
+config/respackopts
+
+# Hide mod auto-generated kubejs files
+kubejs/data/hostilenetworks/
+kubejs/data/powah/
+
+# Hide ProbeJS jsconfig.json
+**/jsconfig.json
+
+# Hide old/duplicate/fixed configs/files
+**/*.bak
+**/*.old

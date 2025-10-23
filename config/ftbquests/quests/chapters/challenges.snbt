@@ -1,0 +1,109 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "challenges"
+	group: ""
+	icon: {
+		id: "minecraft:nether_star"
+	}
+	id: "71A9537EE07AE5DA"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "47AE2C3201220BFF"
+			rewards: [
+				{
+					id: "5905CF1748B9809B"
+					item: {
+						count: 1
+						id: "allthecompressed:diamond_block_1x"
+					}
+					type: "item"
+				}
+				{
+					id: "3BC4E5E19DB41E22"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				icon: {
+					id: "minecraft:diamond_sword"
+				}
+				id: "2B2FFE40800F4AE8"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 10000
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:netherite_sword"
+			}
+			id: "780E96E3801988D7"
+			tasks: [{
+				id: "0D3BC48D773F65C5"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 100000
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "3DFABF9817593285"
+			rewards: [{
+				count: 16
+				id: "24BC1D87861BDDFE"
+				item: {
+					count: 1
+					id: "minecraft:enchanted_golden_apple"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "70B82CEFEBD90FE7"
+				stat: "minecraft:time_since_death"
+				type: "stat"
+				value: 103680000
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "188F78503F9D9944"
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "3F95FB7CD964BABD"
+				type: "kill"
+				value: 100L
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "58AB45B4DF6E1149"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "478714D569380445"
+				type: "kill"
+				value: 100L
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "2CA85DEBE5502D85"
+			tasks: [{
+				id: "518A00B4E07CC7C2"
+				item: { count: 1, id: "allthecompressed:dirt_6x" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "c:silicon": "refinedstorage:silicon",
+  "c:gems/apatite": "null",
+  "c:dusts/saltpeter": "null",
+  "c:gems/ruby": "irons_jewelry:ruby",
+  "c:dusts/niter": "null",
+  "c:gems/peridot": "irons_jewelry:peridot",
+  "c:ingots/constantan": "alltheores:constantan_ingot",
+  "c:gems/sapphire": "irons_jewelry:sapphire",
+  "c:ingots/graphite": "bigreactors:graphite_ingot",
+  "c:rubbers": "null",
+  "c:ingots/zinc": "create:zinc_ingot",
+  "c:ingots/brass": "create:brass_ingot"
+}

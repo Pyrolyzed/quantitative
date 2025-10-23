@@ -1,0 +1,8 @@
+{
+  "type": "enderio:item",
+  "description": {
+    "translate": "Enhanced Item Conduit"
+  },
+  "texture": "enderio:block/conduit/item",
+  "transfer_rate": 128
+}

@@ -1,0 +1,16 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "is not correct",
+      "Is not correct"
+    ],
+    "regex": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "is not correct",
+      "Is not correct"
+    ]
+  }
+}
