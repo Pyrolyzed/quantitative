@@ -1,0 +1,18 @@
+{
+  "generationRate": 160,
+  "transferRate": 2056,
+  "consumptionRate": 1,
+  "previousTier": "obsidian",
+  "bufferCapacity": 2000000,
+  "fuelList": [
+    {
+      "item": "minecraft:ender_pearl",
+      "burnTime": 1600
+    },
+    {
+      "item": "minecraft:ender_eye",
+      "rate": 80,
+      "burnTime": 3200
+    }
+  ]
+}

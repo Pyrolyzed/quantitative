@@ -5,7 +5,8 @@
       "Channels ",
       "is not correct",
       "Is not correct",
-      "Failed to execute AffixLootRule"
+      "Failed to execute AffixLootRule",
+      "Consider prefixing its path with"
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",

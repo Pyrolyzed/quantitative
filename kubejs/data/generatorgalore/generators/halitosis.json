@@ -1,0 +1,14 @@
+{
+  "generationRate": 160,
+  "transferRate": 65536,
+  "consumptionRate": 1,
+  "previousTier": "ender",
+  "bufferCapacity": 39200000,
+  "fuelType": "SOLID",
+  "fuelList": [
+    {
+      "item": "minecraft:dragon_breath",
+      "burnTime": 12000
+    }
+  ]
+}

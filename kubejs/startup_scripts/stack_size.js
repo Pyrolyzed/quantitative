@@ -17,5 +17,4 @@ ItemEvents.modification(event => {
     maxStackSize(/.*_banner$/, 64)
     maxStackSize("woodenbucket:wooden_bucket", 64)
     maxStackSize("supplementaries:jar", 64)
-    maxStackSize("ratatouille:compost_tea_bottle", 64)
 })

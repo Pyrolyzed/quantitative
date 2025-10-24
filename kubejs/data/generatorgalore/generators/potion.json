@@ -1,0 +1,8 @@
+{
+  "generationRate": 32,
+  "transferRate": 2056,
+  "consumptionRate": 1,
+  "previousTier": "culinary",
+  "bufferCapacity": 1000000,
+  "fuelType": "POTION"
+}

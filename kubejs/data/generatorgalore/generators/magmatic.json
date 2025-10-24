@@ -1,0 +1,9 @@
+{
+  "generationRate": 160,
+  "transferRate": 2056,
+  "consumptionRate": 0.4,
+  "previousTier": "obsidian",
+  "bufferCapacity": 2000000,
+  "fuelType": "FLUID",
+  "fuelTag": "minecraft:lava"
+}

@@ -9,22 +9,22 @@
 
 #Disable specific features.
 [Features]
+	#Enable Magnet?
+	magnet = false
+	#Enable Night Vision Goggles?
+	nightVisionGoggles = false
 	#Enable Colored Cobblestone?
 	coloredCobblestone = true
 	#Enable Smooth Glowstone?
 	smoothGlowstone = true
 	#Enable Coal and Charcoal Piece?
-	coalPiece = false
+	coalPiece = true
 	#Enable Diamond and Emerald Apples?
 	apples = true
 	#Enable Watering Can?
 	wateringCan = true
 	#Enable Meshes?
 	meshes = true
-	#Enable Magnet?
-	magnet = true
-	#Enable Night Vision Goggles?
-	nightVisionGoggles = true
 	#Enable Paxels?
 	paxels = true
 	#Enable Flint tools and armor?
@@ -32,7 +32,7 @@
 	#Enable Emerald tools and armor?
 	emeraldGear = true
 	#Enable right click crop harvesting?
-	rightClickHarvest = false
+	rightClickHarvest = true
 	#Enable Sickles?
 	sickles = true
 	#Enable Scythes?

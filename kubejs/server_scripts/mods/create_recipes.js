@@ -11,8 +11,5 @@ ServerEvents.recipes((event) => {
     event.recipes.create.mixing(Item.of("minecraft:dirt", 2), ["minecraft:gravel", "minecraft:dirt"]);
 
     // Stone crafting recipes
-    event.recipes.create.compacting(Item.of("minecraft:calcite", 1), ["minecraft:diorite", "minecraft:bone_meal"])
-    event.recipes.create.compacting(Item.of("minecraft:diorite", 1), ["minecraft:granite", "minecraft:bone_meal"]);
-    event.recipes.create.compacting(Item.of("minecraft:granite", 2), ["minecraft:cobblestone", "minecraft:bone_meal"])
     event.recipes.create.finalize();
 });

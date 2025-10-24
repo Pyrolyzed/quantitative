@@ -1,16 +1,24 @@
 #Radius of blocks in each direction to remove grass.
-# Default: 128
+# Default: 32
 # Range: > 0
 grassRemoverRadius = 32
 #Max amount of naturally spawned hostile mobs
 # Default: 70
-# Range: > 1
+# Range: > 0
 maxHostileMobs = 140
 #Max amount of all naturally spawned creatures
 # Default: 20
-# Range: > 1
+# Range: > 0
 maxCreatures = 50
 #Max amount of all naturally spawned ambient creatures
 # Default: 30
-# Range: > 1
+# Range: > 0
 maxAmbient = 50
+#The radius in every direction water irrigates farmland
+# Default: 10
+# Range: > 0
+farmlandRadius = 10
+#The chance a thrown egg hatches into a chick, If the value is 4 that means a 1 in 4 chance
+# Default: 4
+# Range: > 1
+eggHatchChance = 4

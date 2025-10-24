@@ -346,7 +346,7 @@
 	#The amount of liquid a tank can hold per block.
 	# Default: 8
 	# Range: > 1
-	fluidTankCapacity = 20
+	fluidTankCapacity = 24
 	#.
 	#[in Blocks]
 	#The maximum height a fluid tank can reach.

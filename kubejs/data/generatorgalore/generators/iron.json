@@ -1,0 +1,8 @@
+{
+  "generationRate": 64,
+  "transferRate": 256,
+  "consumptionRate": 1,
+  "previousTier": "copper",
+  "bufferCapacity": 40000,
+  "fuelType": "SOLID"
+}
