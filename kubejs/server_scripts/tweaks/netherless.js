@@ -1,12 +1,5 @@
 ServerEvents.recipes(event => {
     // Make nether items
-    event.shapeless(
-        Item.of("minecraft:blaze_powder", 1),
-        [
-            "minecraft:lava_bucket",
-            "minecraft:gunpowder"
-        ]
-    )
 
     event.shaped(
         Item.of("minecraft:ghast_tear", 4),

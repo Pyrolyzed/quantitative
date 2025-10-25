@@ -212,11 +212,11 @@ function addCreateRecipeHandler(event) {
       let recipeJson = create[type].apply(null, args);
       return createRecipeWrapper(recipeJson, event);
     };
-    if (Utils.snakeCaseToCamelCase(type) != type)
-      event.recipes.create[Utils.snakeCaseToCamelCase(type)] =
+    if (StringUtils.snakeCaseToCamelCase(type) != type)
+      event.recipes.create[StringUtils.snakeCaseToCamelCase(type)] =
         event.recipes.create[type];
     event.recipes[
-      `create${Utils.snakeCaseToTitleCase(type)}`.replace(" ", "")
+      `create${StringUtils.snakeCaseToTitleCase(type)}`.replace(" ", "")
     ] = event.recipes.create[type];
   });
 

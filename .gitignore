@@ -9,9 +9,6 @@ config/iris.properties
 config/ftbchunks-client.snbt
 config/worldedit
 
-# Hide mod auto-generated kubejs files
-kubejs/data/powah/
-
 # Hide ProbeJS files
 **/jsconfig.json
 kubejs/config/probe-settings.json

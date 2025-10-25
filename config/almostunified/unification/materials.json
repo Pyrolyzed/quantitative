@@ -3,8 +3,7 @@
     "minecraft",
     "kubejs",
     "irons_jewelry",
-    "alltheores",
-    "allthemodium",
+    "create",
     "modern_industrialization",
     "mekanism",
     "industrialforegoing",
@@ -13,7 +12,8 @@
     "utilitarian",
     "oritech",
     "actuallyadditions",
-    "biggerreactors"
+    "biggerreactors",
+    "alltheores"
   ],
   "priority_overrides": {},
   "stone_variants": [
@@ -22,8 +22,9 @@
     "deepslate",
     "diorite",
     "granite",
-    "netherrack",
-    "end_stone"
+    "nether",
+    "end",
+    "ancient"
   ],
   "tags": [
     "c:dusts/{material}",

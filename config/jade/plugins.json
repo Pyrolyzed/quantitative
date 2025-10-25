@@ -160,6 +160,14 @@
     "framed_item_frame": true,
     "framed_block_generic": true
   },
+  "dimstorage": {
+    "dim_block_base": true,
+    "dim_tank": true
+  },
+  "compactmachines": {
+    "show_owner": false,
+    "bound_machine": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -176,9 +184,6 @@
   "modern_industrialization": {
     "overclock": true,
     "pipe": true
-  },
-  "globalxp": {
-    "display": true
   },
   "apothic_enchanting": {
     "ench": true

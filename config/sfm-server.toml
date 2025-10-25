@@ -5,7 +5,7 @@ disableProgramExecution = false
 logResourceLossToConsole = true
 # Default: 20
 # Range: > 1
-timerTriggerMinimumIntervalInTicks = 20
+timerTriggerMinimumIntervalInTicks = 1
 # Default: 1
 # Range: > 1
 timerTriggerMinimumIntervalInTicksWhenOnlyForgeEnergyIOStatementsPresent = 1
