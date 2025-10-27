@@ -11,4 +11,4 @@
 #Disable features.
 [Features]
 	#Tool Information Tooltips enabled?
-	toolInfoTooltip = true
+	toolInfoTooltip = false

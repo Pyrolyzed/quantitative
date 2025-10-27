@@ -178,11 +178,11 @@
 	#The maximum energy storage
 	# Default: 1000000
 	# Range: > 1
-	energy_transmitter_t1_max_rf = 1000000
+	energy_transmitter_t1_max_rf = 100000000
 	#The maximum RF transmitted per tick to machines and other transmitters
 	# Default: 1000
 	# Range: > 1
-	energy_transmitter_t1_rf_per_tick = 1000
+	energy_transmitter_t1_rf_per_tick = 100000
 	#The energy loss per block distance in percent
 	# Default: 1.0
 	# Range: 0.0 ~ 100.0

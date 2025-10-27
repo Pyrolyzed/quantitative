@@ -4,4 +4,4 @@ turnOffPotionParticles = "NONE"
 reduceAllChance = 0.0
 reduceDecreasedChance = 0.0
 disableParticles = false
-byTypeReductions = {  }
+byTypeReductions = { "minecraft:white_ash" = 0.0 }

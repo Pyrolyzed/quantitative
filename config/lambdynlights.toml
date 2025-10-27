@@ -1052,6 +1052,26 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.tiab]
 				accelerator = true
 
+			[light_sources.settings.entities.evilcraft]
+				vengeance_spirit = true
+				controlled_zombie = true
+				netherfish = true
+				poisonous_libelle = true
+				werewolf = true
+				anti_vengeance_beam = true
+				attack_vengeance_beam = true
+				biome_extract = true
+				blood_pearl = true
+				broom = true
+				item_dark_stick = true
+				item_empowerable = true
+				item_undespawnable = true
+				lightning_bomb_primed = true
+				lightning_grenade = true
+				necromancers_head = true
+				redstone_grenade = true
+				weather_container = true
+
 [debug]
 	active_dynamic_lighting_cells = false
 	display_dynamic_lighting_chunk_rebuild = false

@@ -49,7 +49,7 @@ weather_particle_thunder_count = 7875
 	#Changes the base scaling of the rain particle.
 	# Default: 1.4
 	# Range: 0.1 ~ 4.0
-	snow_particle_scale = 1.4
+	snow_particle_scale = 4.0
 	#How long can a single snow particle live for without hitting the ground.
 	# Default: 30
 	# Range: 10 ~ 100

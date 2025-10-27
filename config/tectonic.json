@@ -30,7 +30,7 @@
   },
   "general": {
     "mod_enabled": true,
-    "snow_start_offset": 128
+    "snow_start_offset": 256
   },
   "global_terrain": {
     "lava_tunnels": true,

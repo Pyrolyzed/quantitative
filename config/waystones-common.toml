@@ -5,13 +5,13 @@
 	#Allowed Values: ACTIVATION, GLOBAL, SHARD_ONLY, ORANGE_SHARESTONE, MAGENTA_SHARESTONE, LIGHT_BLUE_SHARESTONE, YELLOW_SHARESTONE, LIME_SHARESTONE, PINK_SHARESTONE, GRAY_SHARESTONE, LIGHT_GRAY_SHARESTONE, CYAN_SHARESTONE, PURPLE_SHARESTONE, BLUE_SHARESTONE, BROWN_SHARESTONE, GREEN_SHARESTONE, RED_SHARESTONE, BLACK_SHARESTONE
 	defaultVisibility = "ACTIVATION"
 	#Add "GLOBAL" to allow every player to create global waystones.
-	allowedVisibilities = []
+	allowedVisibilities = ["GLOBAL"]
 	#The time in ticks that it takes to use a warp stone. This is the charge-up time when holding right-click.
-	warpStoneUseTime = 32
+	warpStoneUseTime = 20
 	#The time in ticks that it takes to use a warp plate. This is the time the player has to stand on top for.
 	warpPlateUseTime = 15
 	#The time in ticks it takes to use a scroll. This is the charge-up time when holding right-click.
-	scrollUseTime = 32
+	scrollUseTime = 20
 
 [inventoryButton]
 	#Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.
